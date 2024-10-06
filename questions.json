@@ -1,0 +1,28 @@
+{
+  "questions":[
+    {
+      "type": "choose",
+      "question": "What are the top two companies that produce GPUs?",
+      "answer": ["Nvidia", "AMD"]
+    },
+    {
+      "type": "choose",
+      "question": "Five most popular IDEs for Pyhon development",
+      "answer": ["IDLE", "PyCharm", "VS Code", "Sublime Text", "Atom"]
+    },
+    {
+      "type": "number",
+      "question": "How many people are using JetBrains produts?",
+      "answer": 16000000
+    },
+    {
+      "type": "number",
+      "question": "What is the average price (USD) for a monthly subscribtion of decent ChatGPT alternatives?",
+      "answer": 20
+    },
+    {
+      "type": "text",
+      "question": "Why NVidia's stocks are so high?",
+      "answer": "Because so popular LLMs require GPUs and that's what NVidia is producing."
+    }]
+}
